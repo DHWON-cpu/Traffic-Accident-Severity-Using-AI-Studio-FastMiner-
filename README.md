@@ -1,4 +1,4 @@
-# Factors Influencing Traffic Accident Severity: A Decision Tree Analysis Using AI Studio (FastMiner)
+# Factors Influencing Traffic Accident Severity: A Decision Tree Analysis Using AI Studio (FastMiner)
 
 ## Business need
 * The business need is to develop a predictive model that can identify the likelihood and severity of traffic accidents based on weather conditions, road characteristics, driver behavior, and traffic conditions.
