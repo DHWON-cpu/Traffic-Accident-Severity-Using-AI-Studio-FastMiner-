@@ -4,7 +4,7 @@
 * The business need is to develop a predictive model that can identify the likelihood and severity of traffic accidents based on weather conditions, road characteristics, driver behavior, and traffic conditions.
 
 ## Summary 
-![summary](images/slide1.jpeg)
+![summary](images/Slide1.jpeg)
 
 ## Conclusion
 This study applied a Decision Tree model in AI Studio (FastMiner) to identify factors influencing traffic accident severity.
